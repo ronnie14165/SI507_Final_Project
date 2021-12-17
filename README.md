@@ -30,5 +30,5 @@ Description of the user-facing capabilities : At the beginning, there is a brief
 
 About the user input, while asking a question about yes or no, the user presses ‘y’ for yes and the other for no. Asking questions about choosing one item among some choices, the user input should be exactly one of the choices.
 
-## [Demo Link](http://www.google.com/)
+## [Demo Link](https://youtu.be/uIMw8ALP_9Q)
 
