@@ -11,7 +11,7 @@ The required Python packages for the project is: requests.
 ### [Yelp Fusion](https://fusion.yelp.com/):
 In this application, I use yelp fusion as one of the main data sources. After caching data through this api, I build a binary search tree to judge the highest rating restaurants, according to whether the user refers to the ranking.    
 
-Two python files access the information through those two api: construct_yelp_json.py and construct_xcahnge_rate_json.py and two json files store those data locally.       
+Two python files access the information through those two api: construct_yelp_json.py and construct_exchange_rate_json.py and two json files store those data locally.       
 
 
 The number for records in yelp json file is about 500, in exchange rate json file is about 200.      
