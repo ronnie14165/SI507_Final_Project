@@ -8,7 +8,7 @@ The required README file are posted on github.
 The required Python packages for the project is: requests. 
 
 ## Data sources
-### Yelp Fusion:
+### [Yelp Fusion](http://www.google.com/):
 In this application, I use yelp fusion as one of the main data sources. After caching data through this api, I build a binary search tree to judge the highest rating restaurants, according to whether the user refers to the ranking.    
 
 ### Exchange rate api: 
@@ -17,6 +17,5 @@ I chose this api as a part of the data resource because sometimes, foreign touri
 ## Interaction and Presentation Options
 Description of the user-facing capabilities : At the beginning, there is a brief introduction about this application, it tells users to choose one city among the city list. After the user has done that, the system will list all the corresponding Chinese restaurants it has in the system. Then, ask the user if he(she) needs the recommendation system, which is, using the binary search tree to find the best restaurant according to the rating, then post it on the screen, with its name, address and rating. Later, ask the user if he(she) needs to pay in another currency, like CNY, GBP or Euro. If so, the system would ask the user what kind of currency he(she) has and how much USD is spent, finally giving the amount of corresponding payment the user should pay with the currency he(she) chooses, based on real time exchange rate.
 
-## Demo Link
-www.
+## [Demo Link](http://www.google.com/)
 
